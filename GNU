@@ -1,0 +1,1 @@
+GNU est un système d’exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2. 
